@@ -3,7 +3,7 @@
 - 🌱 I’m currently Data Scientist/ Cloud engineer
 - 💞️ I’m looking to collaborate on ml
 - 📫 How to reach me : https://www.linkedin.com/in/anwarabouabdallah/
-- I have 2 aws certification and preparing my first azure certification https://www.credly.com/users/mohamed-anwar-abouabdallah/badges
+- I have 2 aws certification and preparing my first azure certification https://www.credly.com/users/mohamed_anwar_abouabdallah/badges
  
 
 <!---
