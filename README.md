@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Anwar but u can call me @mawro69
 - 👀 I’m interested in ML/MLOps and Data engineering
-- 🌱 I’m currently learning applied mathématics
+- 🌱 I’m currently Data Scientist/ Cloud engineer
 - 💞️ I’m looking to collaborate on ml
-- 📫 How to reach me : [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
- https://www.linkedin.com/in/anwarabouabdallah/
-- I have 2 aws certification https://www.credly.com/users/mohamed-anwar-abouabdallah/badges
+- 📫 How to reach me : https://www.linkedin.com/in/anwarabouabdallah/
+- I have 2 aws certification and preparing my first azure certification https://www.credly.com/users/mohamed-anwar-abouabdallah/badges
  
 
 <!---
