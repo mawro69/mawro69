@@ -8,7 +8,6 @@
 
 <a href="https://www.linkedin.com/in/anwarabouabdallah/" target="_blank">
   <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png](https://cdn-icons-png.flaticon.com/256/174/174857.png)" alt="LinkedIn" width="20" height="20" />
-  LinkedIn
 </a>
  
  
