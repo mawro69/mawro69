@@ -3,6 +3,11 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?&pause=10000&font=Playpen+Sans&weight=500&size=15&pause=1000&color=F72D65&multiline=true&repeat=false&random=false&width=435&lines=%F0%9F%8F%85+I+have+2+aws+certifications+and+pre+-;-paring+my+first+azure+certification" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=500&size=15&pause=1000&color=1BF7F5&multiline=true&repeat=false&random=false&width=435&lines=%F0%9F%93%AB+How+to+reach+me+%3A+&nbsp;&nbsp;<a href='https://www.linkedin.com/in/anwarabouabdallah/'>linkedin</a>" alt="Typing SVG" />
+</a>
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=500&size=15&pause=1000&color=1BF7F5&multiline=true&repeat=false&random=false&width=435&lines=%F0%9F%93%AB+How+to+reach+me+%3A+";<a href="https://www.linkedin.com/in/anwarabouabdallah/">linkedin</a> alt="Typing SVG" /></a>
 
 
