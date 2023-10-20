@@ -5,7 +5,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=500&size=15&pause=1000&color=1BF7F5&multiline=true&repeat=false&random=false&width=435&lines=%F0%9F%93%AB+How+to+reach+me+%3A+" alt="Typing SVG" /></a>
 
-            <a href="https://www.linkedin.com/in/anwarabouabdallah/" target="_blank">
+<a href="https://www.linkedin.com/in/anwarabouabdallah/" target="_blank">
   <img src="https://example.com/linkedin-logo.png" alt="LinkedIn" width="20" height="20" />
   LinkedIn
 </a>
