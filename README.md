@@ -16,8 +16,18 @@
 </a>
 
 
+<a href="https://www.linkedin.com/in/anwarabouabdallah/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png" alt="LinkedIn" width="20" height="20" />
+  LinkedIn
+</a>
 
- 
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/anwarabouabdallah/" target="_blank">
+  <img src="https://www.svgrepo.com/show/331358/credly.svg" alt="Credly" width="20" height="20" />
+  You can see my certificate in Credly
+</a>
+
  
  
 
