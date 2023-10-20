@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anwar but u can call me @mawro69
+- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+%2C+I%E2%80%99m+Anwar+but+call+me+%40mawro69+" alt="Typing SVG" /></a>
 - 👀 I’m interested in ML/MLOps and Data engineering
 - 🌱 I’m currently Data Scientist/ Cloud engineer
 - 💞️ I’m looking to collaborate on ml
