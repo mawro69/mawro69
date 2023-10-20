@@ -12,7 +12,7 @@
 </a>
 <a href="https://www.linkedin.com/in/anwarabouabdallah/" target="_blank">
   <img src="https://www.svgrepo.com/show/331358/credly.svg" alt="Credly" width="20" height="20" />
-  LinkedIn
+  You can see my certificate in credly
 </a>
 
 
